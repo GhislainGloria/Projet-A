@@ -1,2 +1,13 @@
 - Dataset
 Commencer à créer un dataset de chaque véhicule et en labelissé 10-20%
+Alex: moto
+Idriss: voiture
+Ghislain: camion 
+
+//Alex
+Je n'ai récupéré que les images de moto seule avec un fond ou non 
+J'ai essayé d'éviter les images qui risquait de porter à confusion comme des images de: 
+-moto avec avec des personnes, un logo ou autre
+-plusieurs motos sur la même image
+-où on ne voyait pas entierement la moto
+-tout ce qui n'était pas vraiment une moto (porte-clé, figurine, jouet...)
